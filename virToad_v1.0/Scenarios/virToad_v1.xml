@@ -1676,7 +1676,7 @@
       </event>
     </eventGroupEvent>
   </event>
-  <event>
+  <event eventOff="True">
     <reanimationEvent>
       <name>reanimation - import</name>
       <description />
@@ -1690,7 +1690,7 @@
       <importFilename>C:\Users\Arman N. Pili\Desktop\virToad\virToad_v1\Cache\steady_state.xml</importFilename>
     </reanimationEvent>
   </event>
-  <event eventOff="True" timestep="1">
+  <event timestep="1">
     <eventGroupEvent>
       <name>initialization submodel</name>
       <description />
